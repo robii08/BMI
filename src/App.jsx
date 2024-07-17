@@ -105,7 +105,7 @@ const BMICalculator = () => {
               </div>
               <div className='col-md-4 d-flex flex-column justify-content-center align-items-center'>
                 <img
-                  src='../image/gif.gif'
+                  src='https://i.pinimg.com/originals/a3/68/04/a36804545808c80dfe1a634f421c8977.gif'
                   alt='BMI Image'
                   className='img-fluid mb-4'
                   style={{ maxWidth: '100%', height: '200px' }}
